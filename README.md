@@ -10,28 +10,8 @@ Documentación y desarrollo del proyecto registro de acceso de funcionarios
 
 •	ssd1306.py (librería para el funcionamiento de pantalla oled 128x64)
 
-# Tabla Pines
+# Tabla estructura de coenxiones por Pines
 
-RFID RC522	
-Ref	Pin
-SCK	18
-MOSI	23
-MISO	19
-SDA	5
-GND	GND
-3.3V	3.3V
-PANTALLA OLED	
-Ref	Pin
-SCK	22
-SDA	21
-GND	GND
-3.3V	3.3V
-ROJO	Pin
-POSITIVO	4
-GND	GND
-VERDE	Pin
-POSITIVO	15
-GND	GND
 ![image](https://user-images.githubusercontent.com/98502050/151281183-ea081bc8-647a-4627-9c80-72cca6b3458f.png)
 
 
