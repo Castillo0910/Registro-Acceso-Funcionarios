@@ -28,14 +28,19 @@ Documentación y desarrollo del proyecto registro de acceso de funcionarios
 
 # Hardware
 * Esp32 (Wifi – Bluetooth)
+![image](https://user-images.githubusercontent.com/98502050/151285354-eeb84ee2-2ba4-4dc3-9a50-588b072c8f75.png)
 
 * Protoboard 400 pines
+![image](https://user-images.githubusercontent.com/98502050/151285318-faa15d50-635d-4811-8571-15dd01e6da8c.png)
 
 * Leds
+![image](https://user-images.githubusercontent.com/98502050/151285345-e320c988-e3bc-4c32-b16b-6a9257e5aaf7.png)
 
 * Modulo RFID RC522
+![image](https://user-images.githubusercontent.com/98502050/151285325-4b07bdd3-88c9-4111-ba3a-3c826287ba8d.png)
 
 *	Pantalla Oled 128x64
+![image](https://user-images.githubusercontent.com/98502050/151285336-77db7488-abff-496e-b299-e4f898095043.png)
 
 
 
