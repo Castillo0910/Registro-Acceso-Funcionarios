@@ -6,9 +6,9 @@ Documentación y desarrollo del proyecto registro de acceso de funcionarios
 
 •	write.py (se encarga de asignar ID a los chip y/o tarjetas para configuración de registros).
 
-•	mfrc522.py (librería para el funcionamiento de read.py y write.py), no se pueden cambiar valores ya que se puede afectar su correcto funcionamiento.
+•	mfrc522.py (librería para el funcionamiento de la lectora RFID)
 
-•	ssd1306.py (librería para el funcionamiento de pantalla oled 128x64)
+•	ssd1306.py (librería para el funcionamiento de la pantalla oled)
 
 # Tabla estructura de conexiones por Pines
 
