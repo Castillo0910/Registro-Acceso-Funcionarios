@@ -10,8 +10,15 @@ Documentación y desarrollo del proyecto registro de acceso de funcionarios
 
 •	ssd1306.py (librería para el funcionamiento de pantalla oled 128x64)
 
-# Tabla estructura de coenxiones por Pines
+# Tabla estructura de conexiones por Pines
 
 ![image](https://user-images.githubusercontent.com/98502050/151281183-ea081bc8-647a-4627-9c80-72cca6b3458f.png)
+
+# Diagrama
+![image](https://user-images.githubusercontent.com/98502050/151281767-e15ea1c2-69a2-4f50-8574-89ba441bbbc9.png)
+
+# Sistema Implementado y funcional
+![image](https://user-images.githubusercontent.com/98502050/151281858-26777d57-850c-443e-8328-d5e3bff96d1e.png)
+
 
 
