@@ -18,7 +18,18 @@ Documentación y desarrollo del proyecto registro de acceso de funcionarios
 ![image](https://user-images.githubusercontent.com/98502050/151281767-e15ea1c2-69a2-4f50-8574-89ba441bbbc9.png)
 
 # Sistema Implementado y funcional
-![image](https://user-images.githubusercontent.com/98502050/151281858-26777d57-850c-443e-8328-d5e3bff96d1e.png)
+![image](https://user-images.githubusercontent.com/98502050/151281997-cb9c693b-01e0-46ca-a490-29b4588b43c2.png)
+
+# Registro Hoja Calculo (OneDrive)
+![image](https://user-images.githubusercontent.com/98502050/151282799-176b8e76-ec8e-4361-871d-05c1f77ab604.png)
+
+# Nofiticación Registro Correo
+![image](https://user-images.githubusercontent.com/98502050/151282445-684dfbbf-4fcb-4df3-aa65-8a84d9d99b97.png)
+
+
+
+
+
 
 
 
