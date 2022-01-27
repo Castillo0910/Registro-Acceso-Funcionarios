@@ -26,7 +26,7 @@ Documentación y desarrollo del proyecto registro de acceso de funcionarios
 # Nofiticación Registro Correo
 ![image](https://user-images.githubusercontent.com/98502050/151282445-684dfbbf-4fcb-4df3-aa65-8a84d9d99b97.png)
 
-#Hardware
+# Hardware
 * Esp32 (Wifi – Bluetooth)
 
 * Protoboard 400 pines
